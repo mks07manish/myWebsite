@@ -3,6 +3,8 @@ body{
     text-align:center;
     font-family: 'Merriweather', serif;
     color:#40514e;
+    height: 100%;
+    width:100%;
 }
 p{
     line-height: 2;
